@@ -149,5 +149,4 @@ Lossless Data Compression – preserving original data exactly.
 Credits
 <br><br>
 Developer: Ritika Bhasin, B.Tech IT Student, IPU (Batch 2028)<br>
-Library Used: (None — implemented from scratch in C++)<br>
 Concepts Implemented: File handling, priority queues, recursion, binary data writing, and CLI-based workflow design.<br>
