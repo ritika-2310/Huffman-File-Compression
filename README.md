@@ -1,5 +1,4 @@
 # Huffman-File-Compression
-<br><br>
 This project is a Command-Line Interface (CLI) based file compression tool written in C++ that implements Huffman coding. It reads an input text file, analyzes character frequencies, generates Huffman codes, and encodes the file into a compressed binary format (compression.bin). The compression is lossless, meaning the original file can be perfectly reconstructed if the Huffman tree is saved and decoding logic is implemented.
 <br>
 Huffman coding is a popular data compression technique used in many real-world applications (e.g., ZIP files, JPEG image compression) because it efficiently represents frequent symbols with fewer bits.
